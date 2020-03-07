@@ -1,0 +1,50 @@
+[{
+        "name": "sai",
+        "age": 26,
+        "email": "nekkalapudi.saikrishna54@gmail.com",
+        "gender": "Male",
+        "cell": 8790087444
+    },
+    {
+        "name": "ramesh",
+        "age": 25,
+        "email": "ramesh@gmail.com",
+        "gender": "Male",
+        "cell": 12745
+    },
+    {
+        "name": "basha",
+        "age": 26,
+        "email": "basha@gmail.com",
+        "gender": "Male",
+        "cell": 3276
+    },
+    {
+        "name": "vaishali",
+        "age": 26,
+        "email": "vaishali@gmail.com",
+        "gender": "female",
+        "cell": 27346
+    },
+    {
+        "name": "rajesh",
+        "age": 26,
+        "email": "rajesh@gmail.com",
+        "gender": "Male",
+        "cell": 83476
+    },
+    {
+        "name": "harish",
+        "age": 26,
+        "email": "harish@gmail.com",
+        "gender": "Male",
+        "cell": 1242543
+    },
+    {
+        "name": "bachu",
+        "age": 30,
+        "email": "bachu@gmail.com",
+        "gender": "Male",
+        "cell": 36142135
+    }
+]

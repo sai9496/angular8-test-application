@@ -1,0 +1,28 @@
+.container {
+    header {
+        height: 10%;
+        ul {
+            list-style-type: none;
+            li {
+                display: inline;
+                padding: 10px;
+                a {
+                    color: whitesmoke;
+                    border: 2px solid yellowgreen;
+                    padding: 7px;
+                    border-radius: 10px;
+                    &.active {
+                        background-color: yellowgreen;
+                        color: whitesmoke;
+                    }
+                    &:hover {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+    section {
+        height: 90%;
+    }
+}

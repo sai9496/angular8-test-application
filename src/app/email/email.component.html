@@ -1,0 +1,17 @@
+<!-- <p>email works!</p> -->
+<div class="wrapper p-4">
+    <table class="table table-bordered">
+        <tr>
+            <th>Sno</th>
+            <th>Name</th>
+            <th>Place</th>
+            <th>Service</th>
+        </tr>
+        <tr *ngFor="let emailData of finalData">
+            <td>{{emailData.Sno}}</td>
+            <td>{{emailData.name}}</td>
+            <td>{{emailData.place}}</td>
+            <td>{{emailData.service}}</td>
+        </tr>
+    </table>
+</div>

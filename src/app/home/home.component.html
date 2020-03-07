@@ -1,0 +1,20 @@
+<!-- <p>home works!</p>
+{{animals}}
+<h1>{{selfData.age}}</h1> -->
+<div class="wrapper-table p-4">
+    <table class="table table-bordered">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Place</th>
+            <th>Email</th>
+        </tr>
+        <tr *ngFor="let employeeView of employeeData">
+            <td>{{employeeView.name}}</td>
+            <td>{{employeeView.age}}</td>
+            <td>{{employeeView.place}}</td>
+            <td>{{employeeView.email}}</td>
+        </tr>
+    </table>
+    <img src="{{homeImage}}" alt="">
+</div>
